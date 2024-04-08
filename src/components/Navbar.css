@@ -1,0 +1,9 @@
+.navbar .form-check-input:checked {
+    background-color: #141a9b !important; /* Example blue color when checked */
+    border-color: #21053a !important;
+  }
+  
+  .navbar .form-check-input:focus {
+    border-color: #0c0a44 !important ; /* Example focus color */
+    box-shadow: 0 0 0 0.25rem rgba(64, 24, 142, 0.644) !important; /* Adjust the shadow color */
+  }
